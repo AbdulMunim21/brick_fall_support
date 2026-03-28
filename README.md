@@ -1,7 +1,6 @@
 # BrickFall: Neon Breaker – Support
 
-Welcome to the support page for the **BrickFall: Neon Breaker** app – your tracking tool for your savings and keeping track of your expenses.
-
+Welcome to the support page for the **BrickFall: Neon Breaker** app
 ---
 
 ## 🛠️ Help & Troubleshooting
